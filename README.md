@@ -2,11 +2,12 @@
 Python script that allows to download all your music from Google Music with metadata
 
 ## Requirements
-- Python 3 and above
+- [Python 3](https://www.python.org/downloads/) and above
 - [Google Music](https://music.google.com) account with music in the library
 
 ## Getting started
-Download **Google Music Downloader** script from the [releases page](https://github.com/madTeddy/gmusic-downloader/releases) and extract it.
+Download **Google Music Downloader** from the [releases page](https://github.com/madTeddy/gmusic-downloader/releases) and extract it (recommended together with folder).
+
 Install required modules using [pip](https://pip.pypa.io/en/stable/installing/):
 - [gmusicapi](https://github.com/simon-weber/gmusicapi) ```pip install gmusicapi```
 - [tqdm](https://github.com/tqdm/tqdm) ```pip install tqdm```
